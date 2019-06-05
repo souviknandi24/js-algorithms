@@ -1,8 +1,8 @@
 # Algorithms in JavaScript
 
 ## Searching
-1) Linear Search
-2) Binary Search
+1) Linear Search _[done]_
+2) Binary Search _[done]_
 3) Jump Search
 4) Interpolation Search
 5) Exponential Search
